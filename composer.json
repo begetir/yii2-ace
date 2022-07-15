@@ -1,6 +1,5 @@
 {
   "name": "begetir/yii2-ace",
-  "version": "1.0.0",
   "description": "Ace Text EditorWith Emmet Syntax Highlighter For Yii2",
   "type": "yii2-extension",
   "keywords": [
@@ -23,7 +22,6 @@
     }
   ],
   "require": {
-    "yiisoft/yii2": "~2.0.0",
     "bower-asset/ace-builds": "^1.3.1"
   },
   "autoload": {
